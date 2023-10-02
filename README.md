@@ -12,4 +12,4 @@ While I lack Computer Science degree in my back pocket, I make it up for my shee
 + ASEAN Pollution Tableau Dashboard (Tableau)
 + Jobstreet Exploratory Data Analytics Job Opening (Python/Pandas/Matplotlib)
 
-Look into my projects in detail by clicking the repositories! 
+### **Look into my projects in detail by clicking the repositories!**
