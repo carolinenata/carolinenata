@@ -11,3 +11,5 @@ While I lack Computer Science degree in my back pocket, I make it up for my shee
 + Taylor Swift Spotify Data Music Style Analysis (R)
 + ASEAN Pollution Tableau Dashboard (Tableau)
 + Jobstreet Exploratory Data Analytics Job Opening (Python/Pandas/Matplotlib)
+
+Look into my projects in detail by clicking the repositories! 
